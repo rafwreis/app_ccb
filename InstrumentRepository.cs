@@ -85,7 +85,6 @@ namespace Instrumentos.App
                 new Instrument() { Name = "Encarregado Local", Category = "Ministério", Default = true, Image = "pessoa", Count = 0 },
                 new Instrument() { Name = "Instrutor", Category = "Ministério", Default = true, Image = "pessoa", Count = 0 },
                 new Instrument() { Name = "Secretário", Category = "Ministério", Default = true, Image = "pessoa", Count = 0 }
-                //new Instrument() { Name = "Secretário", Category = "Ministério", Default = true, Image = "pessoa", Count = 0 }
             };
         }
     }
